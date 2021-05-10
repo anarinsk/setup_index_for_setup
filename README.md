@@ -18,6 +18,7 @@
 3. **setup**: 설정용 / 설치, 유지 보수 관련 핵심 사항 
 4. **doc**: 문서 / 순서 문서용, application 단에서 핵심적으로 알아야 할 것과 같은 것을 정리해보자. 
 5. **lec**: 발표 및 외부 강의 / 발표 자료 
+6. **info**: 정보성 링크 자료 
 
 ### level-2 Category (if necessary) 
 
@@ -38,12 +39,13 @@
 
 ## Category 
 
-- `START`: 작업개시 
-- `WORKING`: 작업중 
-- `UPDATE`: 일종의 소결, 중간 작업 완료 
-- `DELAY`:교착상태 
+- `START` 작업개시 
+- `WORKING` 작업중 
+- `FIX` 문제점 해결 중 
+- `MILESTONE` 마일스톤 완료  
+- `DELAY` 교착상태 
 - `GIVEUP` 포기 
-- `END`: 프로젝트 종료 
-- `REOPEN`: 프로젝트 재개 
+- `END` 프로젝트 종료 
+- `REOPEN` 프로젝트 재개 
 
 
