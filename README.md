@@ -34,19 +34,16 @@
 
 - 그때그때 적당한 형태로 이름을 붙이도록 하자. 
 
+## Git Branch Rule 
+
+- TBD 
+
 ## Git Comment Rule 
 
 - 작업 카테고리는 대문자로 쓴다. 
 
 ## Category 
 
-- `START` 작업개시 
 - `WORKING` 작업중 
 - `FIX` 문제점 해결 중 
-- `MILESTONE` 마일스톤 완료  
-- `DELAY` 교착상태 
-- `GIVEUP` 포기 
-- `END` 프로젝트 종료 
-- `REOPEN` 프로젝트 재개 
-
 
