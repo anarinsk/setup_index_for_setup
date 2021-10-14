@@ -2,6 +2,15 @@
 
 - 이 문서는 메타 문서다 
 
+## General Rules 
+
+https://speakerdeck.com/jennybc/how-to-name-files?slide=27
+
+### Rules 
+
+- `_`는 메타 데이터 구분자 
+- `-`는 띄어쓰기 
+
 ## Git Repo Naming Rule 
 
 ### General 
