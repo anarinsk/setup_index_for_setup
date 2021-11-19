@@ -27,8 +27,8 @@ https://speakerdeck.com/jennybc/how-to-name-files?slide=27
 3. **setup**: 설정용 / 설치, 유지 보수 관련 핵심 사항 
 4. **doc**: 문서 / 순서 문서용, application 단에서 핵심적으로 알아야 할 것과 같은 것을 정리해보자. 
 5. **lec**: 발표 및 외부 강의 / 발표 자료 
-6. **info**: 정보성 링크 자료 
-7. **PRJ**: 프로젝트 
+6. ~~**info**: 정보성 링크 자료~~  **TIL** 시리즈로 통합해서 관리한다. 
+7. **project**: 프로젝트 
 
 ### level-2 Category (if necessary) 
 
