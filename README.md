@@ -15,8 +15,8 @@ https://speakerdeck.com/jennybc/how-to-name-files?slide=27
 
 ### General 
 
-- category와 category 사이는 `-`로 연결한다. 
-- category 내의 스페이스는 `_`로 연결한다 
+- category와 category 사이는 `_`로 연결한다. 
+- category 내의 스페이스는 `-`로 연결한다 
 
 ### level-1 Category
 
