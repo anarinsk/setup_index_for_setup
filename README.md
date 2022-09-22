@@ -6,12 +6,12 @@
 
 https://speakerdeck.com/jennybc/how-to-name-files?slide=27
 
-### Rules 
+### Rule Zero
 
 - `_`는 메타 데이터 구분자 
 - `-`는 띄어쓰기 
 
-## Git Repo Naming Rule 
+## Git Repo Naming
 
 ### General 
 
@@ -48,16 +48,16 @@ https://speakerdeck.com/jennybc/how-to-name-files?slide=27
 
 - 그때그때 적당한 형태로 이름을 붙이도록 하자. 
 
-## Git Branch Rule 
+## Git Branch Naming 
 
 - TBD 
 
-## Git Comment Rule 
+## Git Comment Writing
 
-- 작업 카테고리는 대문자로 쓴다. 
+- 아직 혼자 써서 본격적으로 하게 되지는 않더라. 
 
-## Category 
-
+### Use cases 
 - `WORKING` 작업중 
 - `FIX` 문제점 해결 중 
+- 파일이 하나 고쳐지면 자동으로 붙는 이름 활용 
 
