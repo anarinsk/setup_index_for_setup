@@ -26,14 +26,14 @@ https://speakerdeck.com/jennybc/how-to-name-files?slide=27
 |:----:|-----|
 |**work**|업무용 / 회사 업무 관련 |
 |**test**|테스트용 / 광범위하게 |
+|**setup**|설정용 / 설치, 유지 보수 관련 핵심 사항 |
+|**doc**|문서 / 순서 문서용, application 단에서 핵심적으로 알아야 할 것과 같은 것|
+|**lec**|발표 및 외부 강의 / 발표 자료|
+|**TIL**|TOday I Learned, 구 Info| 
+|**project**| 프로젝트 |
 
-1. **work**: 업무용 / 회사 업무 관련 
-2. **test**: 테스트용 / 광범위하게 쓴다. 
-3. **setup**: 설정용 / 설치, 유지 보수 관련 핵심 사항 
-4. **doc**: 문서 / 순서 문서용, application 단에서 핵심적으로 알아야 할 것과 같은 것을 정리해보자. 
-5. **lec**: 발표 및 외부 강의 / 발표 자료 
-6. ~~**info**: 정보성 링크 자료~~  **TIL** 시리즈로 통합해서 관리한다. 
-7. **project**: 프로젝트 
+- 이외에 자명한 경우 해당 명칭을 level-1으로 활용한다. 
+  - `streamlit_`
 
 ### level-2 Category (if necessary) 
 
