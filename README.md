@@ -22,6 +22,7 @@ https://speakerdeck.com/jennybc/how-to-name-files?slide=27
 
 - repo가 다루고 있는 영역을 가장 넓게 정의하는 카테고리 
 
+|Name|Desc|
 |:----:|-----|
 |**work**|업무용 / 회사 업무 관련 |
 |**test**|테스트용 / 광범위하게 |
