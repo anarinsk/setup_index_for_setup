@@ -61,3 +61,20 @@ https://speakerdeck.com/jennybc/how-to-name-files?slide=27
 - `FIX` 문제점 해결 중 
 - 파일이 하나 고쳐지면 자동으로 붙는 이름 활용 
 
+## Python envs 
+
+- python envs 네이밍 가이드 작성해본다. 
+- 모든 대분류는 `-`를 띄어쓰기로 활용할 수 있다. 
+
+```
+X_Y_Z...
+```
+
+- X: 해당 env의 핵심 내용을 지칭한다. 
+- Y: 부가 정보를 중요성 순서대로 나열한다. 대체로 파이썬 버전이 될 것이다. 
+
+### Examples 
+
+`d2l_python-3.9`: d2l을 위한 환경이며, 파이썬 버전은 3.9 
+
+
